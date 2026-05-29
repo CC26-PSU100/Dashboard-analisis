@@ -19,3 +19,6 @@ Jika menjalankan proyek ini melalui komputer lokal, buka terminal dan lalu ketik
 streamlit run dashboard.py
 ```
 
+### Akses Dashboard
+Dashboard dapat diakses di link berikut ini:
+https://dashboard-cvision-ds.streamlit.app/
